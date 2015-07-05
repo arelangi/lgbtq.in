@@ -1,28 +1,5 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="viewport" content="initial-scale=1">
-<title>LGBTQ - India</title>
 
-<script>
-	if (!supportsSvg()) {
-	  document.documentElemement.classList.add("no-svg");
-	  // or even .className += " no-svg"; for deeper support
-	}
-</script>
-</head>
-
-<body>
-	
-	<div id="intro">
-    	
-			<h2 id="header">States where same-sex marriage is legal in India are marked in green</h2>
-
-
-			<!--<img src="img/India.svg" alt="">-->
-
-							<svg height="70%" id="svg2" version="1.1" viewBox="0 0 1059.5366 1234.0338" width="70%" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				<svg height="70%" id="svg2" version="1.1" viewBox="0 0 1059.5366 1234.0338" width="70%" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 					<defs id="defs76" />
 					<metadata id="metadata7">
 						<rdf:rdf>
@@ -145,66 +122,3 @@
 						<title id="title4111">AndamanAndNicobar</title>
 					</path>
 				</svg>
-
-
-	    
-	</div> <!--#intro-->
-	
-	<div id="second">
-	    	<div class="center">
-	            <h1>Time To Change It.</h1>
-
-	            <p>Same-sex marriage in the land of the Taj Mahal and Kamasutra is not legal.</p>
-
-	            <p>India made homosexual sex acts a crime punishable by 10 years in prison in 2013 and there seems to be no real initiative from the major political parties or their leaders to act against this injustice.</p>
-	            
-	            <p>We may celebrate our 68th independence day this August, but we are not free as long as we uphold antiquated laws written in 1860</p>
-
-	            <h1> Raise your voice, tell your leaders to act now</h1>
-
-				<div id="pagewrap">
-
-
-					<section id="content">
-						<img class="circle" src="img/MODI.jpeg" alt="Narendra Modi"/>
-						<br/>
-						<a href="https://twitter.com/intent/tweet?screen_name=narendramodi&text=Legalize%20same-sex%20marriage%20in%20India%20%23Equality4all" class="twitter-mention-button">
-						Tweet now</a>
-						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-					</section>
-
-					<section id="middle">
-						<img class="circle" src="img/AK.jpg" alt="Arvind Kejriwal"/>
-						<br/>
-						<a href="https://twitter.com/intent/tweet?screen_name=ArvindKejriwal&text=Legalize%20same-sex%20marriage%20in%20India%20%23Equality4all" class="twitter-mention-button">
-						Tweet now</a>
-						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-					</section>
-
-					<aside id="sidebar">
-						<img class="circle" src="img/RAGA.jpg" alt="Rahul Gandhi"/>
-						<br/>
-						<a href="https://twitter.com/intent/tweet?screen_name=OfficeOfRG&text=Legalize%20same-sex%20marriage%20in%20India%20%23Equality4all" class="twitter-mention-button">
-
-						Tweet now</a>
-						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-					</aside>
-				</div>
-
-
-	            <h1 id="action">Speak Out!</h1>
-
-	            <p class="footer">Made with <i class="fa fa-heart fa-2x"></i> by Yo mama</p>
-
-
-	        </div>
-	    
-	</div> <!--#second-->
-
-	
-	
-</body>
-<link href="css/style.css" rel="stylesheet" type="text/css" />
-<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-</html>

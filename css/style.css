@@ -9,16 +9,14 @@ body{
 
 img{
 	border: 0;
+	height: auto;
+	width: auto;
 }
 
-.nicolas_cage {
-	background: url('nicolas_cage.jpg');
-	width: 20px;
-	height: 15px;
+html.no-svg #intro{
+  background: url(img/India.png) no-repeat;
 }
 
-.fallback {
-}
 
 
 #header{
