@@ -12,8 +12,7 @@ img{
 }
 
 h3{
-	margin-right: 27%;
-	margin-top: 1%;
+	margin: 1% 16%;
 }
 
 
@@ -30,7 +29,7 @@ h3{
 #second{
 	background-color: #3BBE70;
 	color: #4467B2;
-	height: 800px;
+	
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0;
@@ -41,3 +40,38 @@ h3{
 	text-align: center;
 	padding: 10%;
 }
+
+.circle{
+	border-radius:50% 50% 50% 50%;
+	width:200px;
+	height:200px;
+	margin: 5%;
+	
+}
+
+.left{
+	float: left;
+}
+
+.mid{
+	margin-left: 10px;
+}
+
+.right{
+	margin-right: 00px;
+	float: right;
+}
+
+.circle img {
+  margin-right: 14px;
+  display: block;
+  float: left;
+  box-shadow: 3px 3px 1px #ccc;
+  -webkit-box-shadow: 3px 3px 1px #ccc;
+  -moz-box-shadow: 3px 3px 1px #ccc;
+}
+
+td{
+	margin:10%;
+}
+
