@@ -1,11 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
 
-html,body{
-	height: 100%;
-	width: 100%;
-}
-
 body{
 	margin: 0;
 	padding: 0;
@@ -14,6 +9,15 @@ body{
 
 img{
 	border: 0;
+}
+
+.nicolas_cage {
+	background: url('nicolas_cage.jpg');
+	width: 20px;
+	height: 15px;
+}
+
+.fallback {
 }
 
 
@@ -31,7 +35,6 @@ img{
 	background-color: #FFC34F;
 	color: #4467B2;
 	height: 100%;
-	width: 100%;
 	margin: 0 auto;
 	padding: 1% 10%;
 	text-align: center;
