@@ -4,7 +4,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 img{
@@ -43,7 +43,10 @@ img{
 .center{
 	font-size: 1em;
 	text-align: center;
-	padding: 10%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 10%;
+	padding-bottom: 2%;
 }
 
 .circle{
@@ -78,20 +81,8 @@ img{
 
 
 #action{
-	margin-top: 40%;
+	margin-top:40%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* STRUCTURE */
 
@@ -118,9 +109,19 @@ img{
 	padding: 1% 1%;
 	float: left;
 }
-footer {
-	clear: both;
-	padding: 0 3%;
+.footer {
+	margin-top: 10%;
+	margin-bottom: 0%;
+	font-size: 0.8em;
+}
+
+.footer a{
+	text-decoration: none;
+	
+}
+
+.fa-heart{
+	color: #D42900;
 }
 
 /************************************************************************************
@@ -175,5 +176,3 @@ MEDIA QUERIES
 	}
 
 }
-
-
