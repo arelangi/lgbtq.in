@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+img{
+	border: 0;
+}
+
+h3{
+	margin-right: 27%;
+	margin-top: 1%;
+}
+
+
+#intro{
+	font-family: 'Open Sans', sans-serif;
+	background-color: #FFC34F;
+	color: #4467B2;
+	height: 100%;
+	margin: 0 auto;
+	padding: 1% 10%;
+	text-align: center;
+}
+
+#second{
+	background-color: #3BBE70;
+	color: #4467B2;
+	height: 800px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+.center{
+	font-size: 1em;
+	text-align: center;
+	padding: 10%;
+}
