@@ -71,7 +71,104 @@ h3{
   -moz-box-shadow: 3px 3px 1px #ccc;
 }
 
-td{
-	margin:10%;
+
+#action{
+	margin-top: 40%;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* STRUCTURE */
+
+#pagewrap {
+	width: 100%;
+	margin: 2% auto;
+}
+
+#content {
+	width: 30%;
+	float: left;
+	padding: 1% 1%;
+}
+
+#middle {
+	width: 30%; /* Account for margins + border values */
+	float: left;
+	padding: 1% 1%;
+	margin: 0%;
+}
+
+#sidebar {
+	width: 30%;
+	padding: 1% 1%;
+	float: left;
+}
+footer {
+	clear: both;
+	padding: 0 3%;
+}
+
+/************************************************************************************
+MEDIA QUERIES
+*************************************************************************************/
+/* for 980px or less */
+@media screen and (max-width: 980px) {
+	
+	#pagewrap {
+		width: 94%;
+	}
+	#content {
+		width: 41%;
+		padding: 1% 4%;
+	}
+	#middle {
+		width: 41%;
+		padding: 1% 4%;
+		margin: 0%;
+		float: right;
+	}
+	
+	#sidebar {
+		clear: both;
+		padding: 1% 4%;
+		width: auto;
+		float: none;
+	}
+
+	header, footer {
+		padding: 1% 4%;
+	}
+}
+
+/* for 700px or less */
+@media screen and (max-width: 600px) {
+
+	#content {
+		width: auto;
+		float: none;
+	}
+	
+	#middle {
+		width: auto;
+		float: none;
+		margin-left: 0%;
+	}
+	
+	#sidebar {
+		width: auto;
+		float: none;
+	}
+
+}
+
 
